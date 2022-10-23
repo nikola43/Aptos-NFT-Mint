@@ -3,30 +3,30 @@
         "solution": "pinata",
         "pinata": {
             "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-            "pinataPublicKey": "7a48a0e29df9d872f129",
-            "pinataSecretKey": "2ae26d4288e7cb9ceef391b514ab0e3bcce863227a8c5181869db5350428b511"
+            "pinataPublicKey": "06c56b93156943f20410",
+            "pinataSecretKey": "8195e145d37bcb8ff48f953c7ec743d46b3dfcad06f913dd78891d4df217ceaa"
         },
         "arweave": {
             "keyfilePath": "/Users/Shared/arweave-keyfile.json"
         }
     },
     "candymachine": {
-        "cmPublicKey": "",
-        "cmPrivateKey": ""
+        "cmPublicKey": "0xc8cb38224ddcc4fceacd6f6b3a17aae845d9193b5bfab11c84f725824e3d9f85",
+        "cmPrivateKey": "0x17bd249f9d761dfb74884b4ea5e550063b8e51b2aa6730e256139ade57947e3e"
     },
     "collection": {
-        "assetDir": "/Users/Shared/assets/images",
-        "metadataDir": "/Users/Shared/assets/metadata",
+        "assetDir": "/home/thyke/dev/AptosNFTMint/Assets/Images",
+        "metadataDir": "/home/thyke/dev/AptosNFTMint/Assets/metadata",
         "collectionName": "TestCollection101",
         "collectionDescription": "placeholder",
         "collectionCover": "",
-        "collectionSize": 10,
-        "maxMintPerWallet": 3,
-        "mintFee": 10,
+        "collectionSize": 5,
+        "maxMintPerWallet": 1,
+        "mintFee": 10000000,
         "royalty_points_denominator": 1000,
         "royalty_points_numerator": 100,
-        "presaleMintTime": 100000000,
-        "publicMintTime": 100000000,
+        "presaleMintTime": 1666406374,
+        "publicMintTime": 1666406374,
         "whitelistDir": "/Users/Shared/assets"
     }
 }

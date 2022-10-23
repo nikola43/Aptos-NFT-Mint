@@ -1,6 +1,6 @@
-export const candyMachineAddress = "0x910d29c9605d6369edd2f895d4b93e1742819a63cf6c4535e3682701265f3149";
-export const collectionName = "Test collection"; // Case sensitive!
-export const collectionCoverUrl = "https://cloudflare-ipfs.com/ipfs//QmVsudH4sHELLHfaw3mYsX55zMXa2vpPAEvPsdPAV9Kwfx";
+export const candyMachineAddress = "0xc8cb38224ddcc4fceacd6f6b3a17aae845d9193b5bfab11c84f725824e3d9f85";
+export const collectionName = "TestCollection101"; // Case sensitive!
+export const collectionCoverUrl = "https://gateway.pinata.cloud/ipfs/QmSzje6cr33SWvbxbcNFkfUpjReoe4ek1wuaY2aap8w5h7";
 export const mode = "dev"; // "dev" or "test" or "mainnet"
 
 export let NODE_URL;
